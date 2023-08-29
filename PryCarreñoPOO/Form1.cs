@@ -27,7 +27,9 @@ namespace PryCarreñoPOO
 
 
             lblInfo.Text += objeto.Nombre + "-";
-            objeto.fuerza + "-"
+            objeto.fuerza + "-" +
+            objeto.destreza + "-" + 
+
         }
 
 
